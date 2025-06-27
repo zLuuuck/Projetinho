@@ -1,0 +1,7 @@
+flask
+flask-restx
+flask-graphql
+graphene
+flask-cors
+flask-sqlalchemy
+mysql-connector-python
